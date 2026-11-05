@@ -17,6 +17,7 @@ function App() {
         </div>
         <div>
           <h1>main branch</h1>
+          <h3>Payment feature</h3>
           <p>
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>
